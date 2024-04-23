@@ -1,0 +1,45 @@
+*{
+    text-align: center;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-image: url(https://image.slidesdocs.com/responsive-images/background/stopwatch-with-3d-check-mark-icon-powerpoint-background_27a1b22537__960_540.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.heading{
+    background-color: rgb(43, 40, 40);
+    font-size: 45px;
+    color: white;
+    box-shadow: 0 0 20px blue;
+    border-radius: 20px;
+}
+.main{
+    margin: 0 auto;
+    background-color: rgb(43, 40, 40);
+    color: white;
+    display: flex;
+    border-radius: 200px;
+    box-shadow: 0 0 20px blue;
+    width: 310px;
+    height: 310px;
+}
+.main1{
+    padding-top: 35%;
+    padding-left: 15px;
+}
+.buttons{
+    display: flex;
+    margin: 0 auto;
+    width: 245px;
+}
+.main2{
+    margin: 2px;
+    color: white;
+    background-color: blue;
+    border-radius: 30px;
+    box-shadow: 0 0 20px blue;
+    font-size: 25px;
+    padding: 10px;
+}
